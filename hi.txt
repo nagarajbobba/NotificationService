@@ -1,1 +1,18 @@
-testing
+Plan
+
+I want to create a scalable notification micro service in .net 8 with nosql , service should be distributable and consider the following aspects while building.
+1. Clean Architecture
+2. CQRS
+3. Mongo DB
+4. Redis Cache
+5. API Throtling
+6. Circuit Breaker
+7. Serilog Seq
+8. Open Telemetri Distributed Tracing
+9. Docker Containeraisation
+10. Kafka Broker
+11. It should support Push Notification, Email and SMS etc..
+12. Multi tenant
+13. correlation id
+with all best practices and industry standards followed in scalable and distributed systems
+
